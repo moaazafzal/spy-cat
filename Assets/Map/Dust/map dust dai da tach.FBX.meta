@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 45bcc694b70e91545b316188f7e5b141
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ban dua hau
+    100002: bia
+    100004: bia 2
+    100006: bia 3
+    100008: bia 4
+    100010: bien chi duong
+    100012: Camera001
+    100014: Camera001.Target
+    100016: cay
+    100018: cay cau
+    100020: cay dua
+    100022: chao
+    100024: chao 2
+    100026: chao 3
+    100028: con doc
+    100030: cong 1
+    100032: cong vom 2
+    100034: cot dien 1
+    100036: cot dien 2
+    100038: cot dien 4
+    100040: cot dien cao the
+    100042: cum cay 1
+    100044: cum thung dau
+    100046: cumg thung phuy
+    100048: Cylinder001
+    100050: day
+    100052: day dien
+    100054: day dien 2
+    100056: dua hau
+    100058: //RootNode
+    100060: nha 1
+    100062: nha 10
+    100064: nha 2
+    100066: nha 3
+    100068: nha 9
+    100070: nha ban dua hau
+    100072: nha xang
+    100074: oto
+    100076: oto 2
+    100078: Plane001
+    100080: Plane002
+    100082: Sphere014
+    100084: Spot001
+    100086: Spot001.Target
+    100088: Spot002
+    100090: Spot002.Target
+    100092: Spot003
+    100094: Spot003.Target
+    100096: thung dau
+    100098: thung dau do
+    100100: thung go 1
+    100102: thung go 12
+    100104: thung go 15
+    100106: thung go 17
+    100108: thung go 2
+    100110: thung go 3
+    100112: thung go 4
+    100114: thung go 6
+    100116: thung phuy
+    100118: tuong
+    100120: voi nuoc
+    400000: ban dua hau
+    400002: bia
+    400004: bia 2
+    400006: bia 3
+    400008: bia 4
+    400010: bien chi duong
+    400012: Camera001
+    400014: Camera001.Target
+    400016: cay
+    400018: cay cau
+    400020: cay dua
+    400022: chao
+    400024: chao 2
+    400026: chao 3
+    400028: con doc
+    400030: cong 1
+    400032: cong vom 2
+    400034: cot dien 1
+    400036: cot dien 2
+    400038: cot dien 4
+    400040: cot dien cao the
+    400042: cum cay 1
+    400044: cum thung dau
+    400046: cumg thung phuy
+    400048: Cylinder001
+    400050: day
+    400052: day dien
+    400054: day dien 2
+    400056: dua hau
+    400058: //RootNode
+    400060: nha 1
+    400062: nha 10
+    400064: nha 2
+    400066: nha 3
+    400068: nha 9
+    400070: nha ban dua hau
+    400072: nha xang
+    400074: oto
+    400076: oto 2
+    400078: Plane001
+    400080: Plane002
+    400082: Sphere014
+    400084: Spot001
+    400086: Spot001.Target
+    400088: Spot002
+    400090: Spot002.Target
+    400092: Spot003
+    400094: Spot003.Target
+    400096: thung dau
+    400098: thung dau do
+    400100: thung go 1
+    400102: thung go 12
+    400104: thung go 15
+    400106: thung go 17
+    400108: thung go 2
+    400110: thung go 3
+    400112: thung go 4
+    400114: thung go 6
+    400116: thung phuy
+    400118: tuong
+    400120: voi nuoc
+    2300000: ban dua hau
+    2300002: bia
+    2300004: bia 2
+    2300006: bia 3
+    2300008: bia 4
+    2300010: bien chi duong
+    2300012: cay
+    2300014: cay cau
+    2300016: cay dua
+    2300018: chao
+    2300020: chao 2
+    2300022: chao 3
+    2300024: con doc
+    2300026: cong 1
+    2300028: cong vom 2
+    2300030: cot dien 1
+    2300032: cot dien 2
+    2300034: cot dien 4
+    2300036: cot dien cao the
+    2300038: cum cay 1
+    2300040: cum thung dau
+    2300042: cumg thung phuy
+    2300044: Cylinder001
+    2300046: day
+    2300048: day dien
+    2300050: day dien 2
+    2300052: dua hau
+    2300054: nha 1
+    2300056: nha 10
+    2300058: nha 2
+    2300060: nha 3
+    2300062: nha 9
+    2300064: nha ban dua hau
+    2300066: nha xang
+    2300068: oto
+    2300070: oto 2
+    2300072: Plane001
+    2300074: Plane002
+    2300076: thung dau
+    2300078: thung dau do
+    2300080: thung go 1
+    2300082: thung go 12
+    2300084: thung go 15
+    2300086: thung go 17
+    2300088: thung go 2
+    2300090: thung go 3
+    2300092: thung go 4
+    2300094: thung go 6
+    2300096: thung phuy
+    2300098: tuong
+    2300100: voi nuoc
+    3300000: ban dua hau
+    3300002: bia
+    3300004: bia 2
+    3300006: bia 3
+    3300008: bia 4
+    3300010: bien chi duong
+    3300012: cay
+    3300014: cay cau
+    3300016: cay dua
+    3300018: chao
+    3300020: chao 2
+    3300022: chao 3
+    3300024: con doc
+    3300026: cong 1
+    3300028: cong vom 2
+    3300030: cot dien 1
+    3300032: cot dien 2
+    3300034: cot dien 4
+    3300036: cot dien cao the
+    3300038: cum cay 1
+    3300040: cum thung dau
+    3300042: cumg thung phuy
+    3300044: Cylinder001
+    3300046: day
+    3300048: day dien
+    3300050: day dien 2
+    3300052: dua hau
+    3300054: nha 1
+    3300056: nha 10
+    3300058: nha 2
+    3300060: nha 3
+    3300062: nha 9
+    3300064: nha ban dua hau
+    3300066: nha xang
+    3300068: oto
+    3300070: oto 2
+    3300072: Plane001
+    3300074: Plane002
+    3300076: thung dau
+    3300078: thung dau do
+    3300080: thung go 1
+    3300082: thung go 12
+    3300084: thung go 15
+    3300086: thung go 17
+    3300088: thung go 2
+    3300090: thung go 3
+    3300092: thung go 4
+    3300094: thung go 6
+    3300096: thung phuy
+    3300098: tuong
+    3300100: voi nuoc
+    4300000: Plane001
+    4300002: Cylinder001
+    4300004: nha 1
+    4300006: chao
+    4300008: cong 1
+    4300010: nha 2
+    4300012: nha 3
+    4300014: cay
+    4300016: thung go 1
+    4300018: thung go 2
+    4300020: thung go 3
+    4300022: oto
+    4300024: bia
+    4300026: thung go 4
+    4300028: thung dau
+    4300030: voi nuoc
+    4300032: cong vom 2
+    4300034: nha ban dua hau
+    4300036: ban dua hau
+    4300038: cum cay 1
+    4300040: thung go 6
+    4300042: nha xang
+    4300044: cot dien 1
+    4300046: cot dien 2
+    4300048: day dien
+    4300050: day dien 2
+    4300052: cum thung dau
+    4300054: oto 2
+    4300056: bien chi duong
+    4300058: cay dua
+    4300060: bia 2
+    4300062: bia 3
+    4300064: bia 4
+    4300066: cot dien cao the
+    4300068: thung dau do
+    4300070: cay cau
+    4300072: chao 2
+    4300074: nha 9
+    4300076: con doc
+    4300078: nha 10
+    4300080: thung go 12
+    4300082: chao 3
+    4300084: cot dien 4
+    4300086: cumg thung phuy
+    4300088: thung phuy
+    4300090: Plane002
+    4300092: tuong
+    4300094: day
+    4300096: thung go 15
+    4300098: thung go 17
+    4300100: dua hau
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

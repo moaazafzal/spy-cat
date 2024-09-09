@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 90bdc3cb47d5f344d9b5f896784f8cb1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 'cong chao '
+    100004: do 1
+    100006: do1
+    100008: do2
+    100010: do3
+    100012: do4
+    100014: do5
+    100016: duong
+    100018: nen1
+    100020: nen2
+    100022: nen3
+    100024: nen4
+    100026: nen5
+    100028: 'nha 1 '
+    100030: nha 10
+    100032: 'nha 2 '
+    100034: 'nha 3 '
+    100036: nha 7
+    100038: nha11
+    100040: nha12
+    100042: nha13
+    100044: nha5
+    100046: nha6
+    100048: nha8
+    100050: nha9
+    400000: //RootNode
+    400002: 'cong chao '
+    400004: do 1
+    400006: do1
+    400008: do2
+    400010: do3
+    400012: do4
+    400014: do5
+    400016: duong
+    400018: nen1
+    400020: nen2
+    400022: nen3
+    400024: nen4
+    400026: nen5
+    400028: 'nha 1 '
+    400030: nha 10
+    400032: 'nha 2 '
+    400034: 'nha 3 '
+    400036: nha 7
+    400038: nha11
+    400040: nha12
+    400042: nha13
+    400044: nha5
+    400046: nha6
+    400048: nha8
+    400050: nha9
+    2300000: 'cong chao '
+    2300002: do 1
+    2300004: do1
+    2300006: do2
+    2300008: do3
+    2300010: do4
+    2300012: do5
+    2300014: duong
+    2300016: nen1
+    2300018: nen2
+    2300020: nen3
+    2300022: nen4
+    2300024: nen5
+    2300026: 'nha 1 '
+    2300028: nha 10
+    2300030: 'nha 2 '
+    2300032: 'nha 3 '
+    2300034: nha 7
+    2300036: nha11
+    2300038: nha12
+    2300040: nha13
+    2300042: nha5
+    2300044: nha6
+    2300046: nha8
+    2300048: nha9
+    3300000: 'cong chao '
+    3300002: do 1
+    3300004: do1
+    3300006: do2
+    3300008: do3
+    3300010: do4
+    3300012: do5
+    3300014: duong
+    3300016: nen1
+    3300018: nen2
+    3300020: nen3
+    3300022: nen4
+    3300024: nen5
+    3300026: 'nha 1 '
+    3300028: nha 10
+    3300030: 'nha 2 '
+    3300032: 'nha 3 '
+    3300034: nha 7
+    3300036: nha11
+    3300038: nha12
+    3300040: nha13
+    3300042: nha5
+    3300044: nha6
+    3300046: nha8
+    3300048: nha9
+    4300000: nha13
+    4300002: duong
+    4300004: do 1
+    4300006: 'nha 1 '
+    4300008: 'nha 2 '
+    4300010: 'nha 3 '
+    4300012: 'cong chao '
+    4300014: nha5
+    4300016: nha6
+    4300018: nha 7
+    4300020: nha8
+    4300022: nha9
+    4300024: nha 10
+    4300026: nha11
+    4300028: nha12
+    4300030: do1
+    4300032: do2
+    4300034: do3
+    4300036: do4
+    4300038: do5
+    4300040: nen1
+    4300042: nen2
+    4300044: nen3
+    4300046: nen4
+    4300048: nen5
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
