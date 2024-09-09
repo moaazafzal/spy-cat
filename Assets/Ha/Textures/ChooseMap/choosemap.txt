@@ -1,0 +1,180 @@
+{"frames": {
+
+"Garage.png":
+{
+	"frame": {"x":2,"y":2,"w":233,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":217},
+	"sourceSize": {"w":233,"h":217}
+},
+"Jungle.png":
+{
+	"frame": {"x":237,"y":2,"w":183,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":181},
+	"sourceSize": {"w":183,"h":181}
+},
+"Park.png":
+{
+	"frame": {"x":422,"y":2,"w":183,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":181},
+	"sourceSize": {"w":183,"h":181}
+},
+"Shop_1.png":
+{
+	"frame": {"x":2,"y":221,"w":289,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":90},
+	"sourceSize": {"w":289,"h":90}
+},
+"Shop_2.png":
+{
+	"frame": {"x":293,"y":221,"w":289,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":90},
+	"sourceSize": {"w":289,"h":90}
+},
+"TheOldCity.png":
+{
+	"frame": {"x":584,"y":221,"w":233,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":217},
+	"sourceSize": {"w":233,"h":217}
+},
+"back_1.png":
+{
+	"frame": {"x":2,"y":440,"w":289,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":90},
+	"sourceSize": {"w":289,"h":90}
+},
+"back_2.png":
+{
+	"frame": {"x":293,"y":440,"w":289,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":90},
+	"sourceSize": {"w":289,"h":90}
+},
+"background.png":
+{
+	"frame": {"x":2,"y":532,"w":800,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":480},
+	"sourceSize": {"w":800,"h":480}
+},
+"bb_map.png":
+{
+	"frame": {"x":2,"y":1014,"w":800,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":400},
+	"sourceSize": {"w":800,"h":400}
+},
+"bb_state.png":
+{
+	"frame": {"x":2,"y":1416,"w":800,"h":363},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":363},
+	"sourceSize": {"w":800,"h":363}
+},
+"btnNext_1.png":
+{
+	"frame": {"x":2,"y":1781,"w":289,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":90},
+	"sourceSize": {"w":289,"h":90}
+},
+"btnNext_2.png":
+{
+	"frame": {"x":293,"y":1781,"w":289,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":90},
+	"sourceSize": {"w":289,"h":90}
+},
+"lockMap.png":
+{
+	"frame": {"x":584,"y":1781,"w":231,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":155},
+	"sourceSize": {"w":231,"h":155}
+},
+"next_1.png":
+{
+	"frame": {"x":2,"y":1938,"w":45,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":95},
+	"sourceSize": {"w":45,"h":95}
+},
+"next_2.png":
+{
+	"frame": {"x":49,"y":1938,"w":45,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":95},
+	"sourceSize": {"w":45,"h":95}
+},
+"prev_1.png":
+{
+	"frame": {"x":96,"y":1938,"w":45,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":95},
+	"sourceSize": {"w":45,"h":95}
+},
+"prev_2.png":
+{
+	"frame": {"x":143,"y":1938,"w":45,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":95},
+	"sourceSize": {"w":45,"h":95}
+},
+"selectMap.png":
+{
+	"frame": {"x":190,"y":1938,"w":202,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":29},
+	"sourceSize": {"w":202,"h":29}
+},
+"selectStage.png":
+{
+	"frame": {"x":394,"y":1938,"w":227,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":29},
+	"sourceSize": {"w":227,"h":29}
+},
+"star.png":
+{
+	"frame": {"x":623,"y":1938,"w":23,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":22},
+	"sourceSize": {"w":23,"h":22}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "choosemap.png",
+	"format": "RGBA8888",
+	"size": {"w":819,"h":2035},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:96907bb8d1f0b55acfd57c8ce084f061:5eaaba144686e042b1e92cb1eb7e14fb:e7ac846bafda40922d9a00ffa428c92e$"
+}
+}

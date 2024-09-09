@@ -1,0 +1,52 @@
+{"frames": {
+
+"GOOD GUY.png":
+{
+	"frame": {"x":594,"y":2,"w":198,"h":238},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":238},
+	"sourceSize": {"w":198,"h":238}
+},
+"bb.png":
+{
+	"frame": {"x":2,"y":253,"w":800,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":364},
+	"sourceSize": {"w":800,"h":364}
+},
+"gangster.png":
+{
+	"frame": {"x":394,"y":2,"w":198,"h":238},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":238},
+	"sourceSize": {"w":198,"h":238}
+},
+"preview.png":
+{
+	"frame": {"x":2,"y":2,"w":190,"h":249},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":249},
+	"sourceSize": {"w":190,"h":249}
+},
+"teacher.png":
+{
+	"frame": {"x":194,"y":2,"w":198,"h":238},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":238},
+	"sourceSize": {"w":198,"h":238}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chooseCharacter.png",
+	"format": "RGBA8888",
+	"size": {"w":804,"h":619},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:96221b5f3b4e0f3ba1b6a1bb5e8693d8:548f0d0a346e2725d74aa04f3b057b8f:db128229cc65f26afb4f0cd00775d23b$"
+}
+}

@@ -1,0 +1,108 @@
+{"frames": {
+
+"Soldier.png":
+{
+	"frame": {"x":2,"y":2,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"agent.png":
+{
+	"frame": {"x":126,"y":2,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"bo co ban.png":
+{
+	"frame": {"x":250,"y":2,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"cowboy.png":
+{
+	"frame": {"x":2,"y":55,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"gangster.png":
+{
+	"frame": {"x":126,"y":55,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"luigi.png":
+{
+	"frame": {"x":250,"y":55,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"marine.png":
+{
+	"frame": {"x":2,"y":108,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"mario.png":
+{
+	"frame": {"x":126,"y":108,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"mercenaries.png":
+{
+	"frame": {"x":250,"y":108,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"pijama.png":
+{
+	"frame": {"x":2,"y":161,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"swat.png":
+{
+	"frame": {"x":126,"y":161,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+},
+"yakuza.png":
+{
+	"frame": {"x":250,"y":161,"w":122,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":51},
+	"sourceSize": {"w":122,"h":51}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fashionItem.png",
+	"format": "RGBA8888",
+	"size": {"w":374,"h":214},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3de212ecf4594ff512f80ae1f4274349:ac988ad38e092c7bbb11c7dc17c10a5b:9201ba87e806cd4a92171b6a0bc25fda$"
+}
+}
