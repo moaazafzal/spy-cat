@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: af15e98d2bc03a04bb8aedd3c35bbc11
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 1
+    100002: Ctrl Ban Tay Phai
+    100004: Ctrl Ban Tay Trai
+    100006: Ctrl Bone Center UP
+    100008: Ctrl Center
+    100010: Ctrl Co Tay Phai
+    100012: Ctrl Co Tay Trai
+    100014: Ctrl Khiu Chan Phai
+    100016: Ctrl Khiu Chan Trai
+    100018: Ctrl Khiu Tay Phai
+    100020: Ctrl Khiu Tay Trai
+    100022: Ctrl Ngon Tay Trai
+    100024: Ctrl Toc 1
+    100026: Ctrl Toc 2
+    100028: Ctrl Toc 3
+    100030: Ctrl Total Ban Chan Phai
+    100032: Ctrl Total Ban Chan Trai
+    100034: Ctrl Total Body
+    100036: Ctrl Xuong Ban Chan Phai
+    100038: Ctrl Xuong Ban Chan Trai
+    100040: Ctrl Xuong Co
+    100042: Ctrl Xuong Dau
+    100044: Ctrl Xuong Ham Duoi
+    100046: Ctrl Xuong Long Nguc
+    100048: Ctrl Xuong Ngon Chan Phai
+    100050: Ctrl Xuong Ngon Chan Trai
+    100052: Ctrl Xuong Ngon Tay Phai
+    100054: Dummy001
+    100056: IK  Ban Chan Phai
+    100058: IK Ban Chan Trai
+    100060: IK Co Chan Phai
+    100062: IK Co Chan Trai
+    100064: IK Co Tay Phai
+    100066: IK Co Tay Trai
+    100068: IK Toc 1
+    100070: IK Toc 2
+    100072: IK Toc 3
+    100074: //RootNode
+    100076: Object016
+    100078: Xuong Ba Vai Phai
+    100080: Xuong Ba Vai Trai
+    100082: Xuong Ban Chan Phai
+    100084: Xuong Ban Chan Trai
+    100086: Xuong Ban Tay Phai
+    100088: Xuong Ban Tay Trai
+    100090: Xuong Canh Tay Phai 1
+    100092: Xuong Canh Tay Phai 2
+    100094: Xuong Canh Tay Trai 1
+    100096: Xuong Canh Tay Trai 2
+    100098: Xuong Chau Center
+    100100: Xuong Chau phai
+    100102: Xuong Chau Trai
+    100104: Xuong Co
+    100106: Xuong Co Chan Phai
+    100108: Xuong Co Chan Trai
+    100110: Xuong Co Tay Phai
+    100112: Xuong Co Tay Trai
+    100114: Xuong Dau
+    100116: Xuong Dinh Dau
+    100118: Xuong Dinh Ham Duoi
+    100120: Xuong Dinh Ham Tren
+    100122: Xuong Dinh Ngon Chan Phai
+    100124: Xuong Dinh Ngon Chan Trai
+    100126: Xuong Dinh Ngon Tay Phai
+    100128: Xuong Dinh Ngon Tay Trai
+    100130: Xuong Dinh Toc 1
+    100132: Xuong Dinh Toc 2
+    100134: Xuong Dinh Toc 3
+    100136: Xuong Dui Phai
+    100138: Xuong Dui Trai
+    100140: Xuong Ham Duoi
+    100142: Xuong Ham Tren
+    100144: Xuong Long Mat Phai 1
+    100146: Xuong Long Mat Phai 2
+    100148: Xuong Long Mat Phai 3
+    100150: Xuong Long Mat Trai 1
+    100152: Xuong Long Mat Trai 2
+    100154: Xuong Long Mat Trai 3
+    100156: Xuong Long Nguc
+    100158: Xuong Ngon Chan Phai
+    100160: Xuong Ngon Chan Trai
+    100162: Xuong Ngon Tay Phai
+    100164: Xuong Ngon Tay Trai
+    100166: Xuong Ong Dong Phai
+    100168: Xuong Ong Dong Trai
+    100170: Xuong Song
+    100172: Xuong Toc 1
+    100174: Xuong Toc 2
+    100176: Xuong Toc 3
+    100178: Xuong Uc
+    100180: Chan Phai
+    100182: Chan Trai
+    100184: Than
+    400000: 1
+    400002: Ctrl Ban Tay Phai
+    400004: Ctrl Ban Tay Trai
+    400006: Ctrl Bone Center UP
+    400008: Ctrl Center
+    400010: Ctrl Co Tay Phai
+    400012: Ctrl Co Tay Trai
+    400014: Ctrl Khiu Chan Phai
+    400016: Ctrl Khiu Chan Trai
+    400018: Ctrl Khiu Tay Phai
+    400020: Ctrl Khiu Tay Trai
+    400022: Ctrl Ngon Tay Trai
+    400024: Ctrl Toc 1
+    400026: Ctrl Toc 2
+    400028: Ctrl Toc 3
+    400030: Ctrl Total Ban Chan Phai
+    400032: Ctrl Total Ban Chan Trai
+    400034: Ctrl Total Body
+    400036: Ctrl Xuong Ban Chan Phai
+    400038: Ctrl Xuong Ban Chan Trai
+    400040: Ctrl Xuong Co
+    400042: Ctrl Xuong Dau
+    400044: Ctrl Xuong Ham Duoi
+    400046: Ctrl Xuong Long Nguc
+    400048: Ctrl Xuong Ngon Chan Phai
+    400050: Ctrl Xuong Ngon Chan Trai
+    400052: Ctrl Xuong Ngon Tay Phai
+    400054: Dummy001
+    400056: IK  Ban Chan Phai
+    400058: IK Ban Chan Trai
+    400060: IK Co Chan Phai
+    400062: IK Co Chan Trai
+    400064: IK Co Tay Phai
+    400066: IK Co Tay Trai
+    400068: IK Toc 1
+    400070: IK Toc 2
+    400072: IK Toc 3
+    400074: //RootNode
+    400076: Object016
+    400078: Xuong Ba Vai Phai
+    400080: Xuong Ba Vai Trai
+    400082: Xuong Ban Chan Phai
+    400084: Xuong Ban Chan Trai
+    400086: Xuong Ban Tay Phai
+    400088: Xuong Ban Tay Trai
+    400090: Xuong Canh Tay Phai 1
+    400092: Xuong Canh Tay Phai 2
+    400094: Xuong Canh Tay Trai 1
+    400096: Xuong Canh Tay Trai 2
+    400098: Xuong Chau Center
+    400100: Xuong Chau phai
+    400102: Xuong Chau Trai
+    400104: Xuong Co
+    400106: Xuong Co Chan Phai
+    400108: Xuong Co Chan Trai
+    400110: Xuong Co Tay Phai
+    400112: Xuong Co Tay Trai
+    400114: Xuong Dau
+    400116: Xuong Dinh Dau
+    400118: Xuong Dinh Ham Duoi
+    400120: Xuong Dinh Ham Tren
+    400122: Xuong Dinh Ngon Chan Phai
+    400124: Xuong Dinh Ngon Chan Trai
+    400126: Xuong Dinh Ngon Tay Phai
+    400128: Xuong Dinh Ngon Tay Trai
+    400130: Xuong Dinh Toc 1
+    400132: Xuong Dinh Toc 2
+    400134: Xuong Dinh Toc 3
+    400136: Xuong Dui Phai
+    400138: Xuong Dui Trai
+    400140: Xuong Ham Duoi
+    400142: Xuong Ham Tren
+    400144: Xuong Long Mat Phai 1
+    400146: Xuong Long Mat Phai 2
+    400148: Xuong Long Mat Phai 3
+    400150: Xuong Long Mat Trai 1
+    400152: Xuong Long Mat Trai 2
+    400154: Xuong Long Mat Trai 3
+    400156: Xuong Long Nguc
+    400158: Xuong Ngon Chan Phai
+    400160: Xuong Ngon Chan Trai
+    400162: Xuong Ngon Tay Phai
+    400164: Xuong Ngon Tay Trai
+    400166: Xuong Ong Dong Phai
+    400168: Xuong Ong Dong Trai
+    400170: Xuong Song
+    400172: Xuong Toc 1
+    400174: Xuong Toc 2
+    400176: Xuong Toc 3
+    400178: Xuong Uc
+    400180: Chan Phai
+    400182: Chan Trai
+    400184: Than
+    2300000: Object016
+    3300000: Object016
+    4300000: 1
+    4300002: Object016
+    7400000: Animation CAT solider
+    9500000: //RootNode
+    13700000: 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Ctrl Center
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Chau phai
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Chau Trai
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Ong Dong Phai
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Ong Dong Trai
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Co Chan Phai
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Co Chan Trai
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Song
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Uc
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Dau
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Ba Vai Trai
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Ba Vai Phai
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Canh Tay Trai 1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Canh Tay Phai 1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Canh Tay Trai 2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Canh Tay Phai 2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Co Tay Trai
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Ban Tay Phai
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Ngon Chan Phai
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Ngon Chan Trai
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Ham Duoi
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Xuong Toc 1
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Model(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: 1
+      position: {x: -7.62939436e-08, y: 0, z: 2.10288675e-08}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl Center
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 3.09947491, y: 3.09947491, z: 3.09947491}
+      transformModified: 1
+    - name: Ctrl Co Tay Phai
+      position: {x: .254425526, y: -.0193456188, z: .405515581}
+      rotation: {x: .193870276, y: -.620330274, z: .682515085, w: .33433187}
+      scale: {x: .142901257, y: .142901227, z: .142901242}
+      transformModified: 1
+    - name: Ctrl Ban Tay Phai
+      position: {x: -.221220315, y: 0, z: 2.23159782e-06}
+      rotation: {x: .0550963916, y: -.103102282, z: .086115323, w: .989403069}
+      scale: {x: 1.07486093, y: 1.07486117, z: 1.07486129}
+      transformModified: 1
+    - name: Ctrl Xuong Ngon Tay Phai
+      position: {x: -.226300955, y: -6.10351549e-07, z: 1.52587887e-07}
+      rotation: {x: -.131288439, y: .0875741839, z: -.115097426, w: .980737865}
+      scale: {x: 1.33719814, y: 1.33719838, z: 1.33719802}
+      transformModified: 1
+    - name: Dummy001
+      position: {x: -.878883779, y: .250727534, z: .323725581}
+      rotation: {x: .603077173, y: .0131555106, z: -.0680905953, w: .794662535}
+      scale: {x: 1.81030905, y: .759989858, z: .294210017}
+      transformModified: 1
+    - name: Object016
+      position: {x: .260062665, y: .215230271, z: 0}
+      rotation: {x: -.707106054, y: 9.55744284e-08, z: 1.11773232e-07, w: .707107604}
+      scale: {x: 1.62613285, y: 10.0057859, z: 3.87347531}
+      transformModified: 1
+    - name: IK Co Tay Phai
+      position: {x: -4.875183e-05, y: .000109863278, z: .00023927688}
+      rotation: {x: .193870172, y: -.620330393, z: .682515085, w: -.334331959}
+      scale: {x: 2.2577498, y: 2.2577498, z: 2.25775003}
+      transformModified: 1
+    - name: Ctrl Co Tay Trai
+      position: {x: -.254424721, y: -.0193448793, z: .405514896}
+      rotation: {x: .620322347, y: -.193853378, z: .334344178, w: .682521105}
+      scale: {x: .142901242, y: .142901257, z: .142901272}
+      transformModified: 1
+    - name: Ctrl Ban Tay Trai
+      position: {x: -.221221924, y: 0, z: -1.58309933e-06}
+      rotation: {x: -.0550995842, y: -.103124678, z: -.0861136094, w: .989400744}
+      scale: {x: 1.07486129, y: 1.07486117, z: 1.07486129}
+      transformModified: 1
+    - name: Ctrl Ngon Tay Trai
+      position: {x: -.226300344, y: 1.2207031e-06, z: -1.52587887e-07}
+      rotation: {x: .131284192, y: .0875739828, z: .115097746, w: .980738401}
+      scale: {x: 1.33719802, y: 1.33719826, z: 1.3371979}
+      transformModified: 1
+    - name: IK Co Tay Trai
+      position: {x: -5.00488277e-05, y: -.000101928708, z: .000244693743}
+      rotation: {x: -.620322347, y: .193853408, z: -.334344238, w: .682521045}
+      scale: {x: 2.25775003, y: 2.25775003, z: 2.25775027}
+      transformModified: 1
+    - name: Ctrl Khiu Chan Phai
+      position: {x: .0812248588, y: -.087071605, z: .185418621}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .0930767506, y: .0930767506, z: .0930767506}
+      transformModified: 1
+    - name: Ctrl Khiu Chan Trai
+      position: {x: -.0812248588, y: -.0870716274, z: .18541868}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .0930767506, y: .0930767506, z: .0930767506}
+      transformModified: 1
+    - name: Ctrl Khiu Tay Phai
+      position: {x: .188760027, y: .0822186619, z: .473741889}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .185924783, y: .185924783, z: .185924783}
+      transformModified: 1
+    - name: Ctrl Khiu Tay Trai
+      position: {x: -.188763425, y: .0822160318, z: .473745704}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .185924783, y: .185924783, z: .185924783}
+      transformModified: 1
+    - name: Ctrl Total Ban Chan Phai
+      position: {x: .0744441524, y: .0425428003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .322635293, y: .322635293, z: .322635293}
+      transformModified: 1
+    - name: Ctrl Xuong Ban Chan Phai
+      position: {x: 1.71661372e-06, y: -.0396306217, z: .0546872541}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .480076849, y: .480076849, z: .480076849}
+      transformModified: 1
+    - name: Ctrl Xuong Ngon Chan Phai
+      position: {x: -4.73022465e-06, y: -.36394158, z: .0709232911}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.3597672, y: 1.3597672, z: 1.3597672}
+      transformModified: 1
+    - name: IK  Ban Chan Phai
+      position: {x: 7.62939436e-08, y: 0, z: 9.53674295e-09}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.08299994, y: 2.08299994, z: 2.08299994}
+      transformModified: 1
+    - name: IK Co Chan Phai
+      position: {x: -0, y: 0, z: .108705826}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl Total Ban Chan Trai
+      position: {x: -.0744441524, y: .0425428003, z: 0}
+      rotation: {x: 1, y: 0, z: -0, w: 4.37113883e-08}
+      scale: {x: -.322635293, y: -.322635293, z: -.322635293}
+      transformModified: 1
+    - name: Ctrl Xuong Ban Chan Trai
+      position: {x: 1.75476066e-06, y: -.0396308973, z: .0546872877}
+      rotation: {x: .999999821, y: 5.95162237e-06, z: -4.06805566e-06, w: -.000650393544}
+      scale: {x: -.480076879, y: -.480077058, z: -.480077028}
+      transformModified: 1
+    - name: Ctrl Xuong Ngon Chan Trai
+      position: {x: 4.76837158e-06, y: -.36394158, z: .0709234923}
+      rotation: {x: 8.56141477e-11, y: -3.34430292e-13, z: -3.88317986e-13, w: 1}
+      scale: {x: 1.3597672, y: 1.3597672, z: 1.3597672}
+      transformModified: 1
+    - name: IK Ban Chan Trai
+      position: {x: -0, y: -1.90734859e-08, z: 9.53674295e-09}
+      rotation: {x: -.000650406117, y: 4.05688206e-06, z: 5.95789879e-06, w: .999999821}
+      scale: {x: 2.08299994, y: 2.08299923, z: 2.08299947}
+      transformModified: 1
+    - name: IK Co Chan Trai
+      position: {x: -0, y: 0, z: .108705863}
+      rotation: {x: 1, y: 0, z: 0, w: 1.62920685e-07}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: Ctrl Total Body
+      position: {x: -0, y: .0117215011, z: .347983927}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .322635293, y: .322635293, z: .322635293}
+      transformModified: 1
+    - name: Ctrl Bone Center UP
+      position: {x: -0, y: -4.76837148e-09, z: 0}
+      rotation: {x: .0888898596, y: .701497495, z: .0888899416, w: .701497376}
+      scale: {x: .610295653, y: .610295653, z: .610295653}
+      transformModified: 1
+    - name: Ctrl Xuong Long Nguc
+      position: {x: -.498275906, y: 3.81469718e-08, z: 1.52587887e-07}
+      rotation: {x: .120750368, y: .696720421, z: -.120750368, w: .696720421}
+      scale: {x: 1.63855004, y: 1.63855004, z: 1.63855004}
+      transformModified: 1
+    - name: Ctrl Xuong Co
+      position: {x: -5.28575015e-08, y: -.0253261756, z: -.433741897}
+      rotation: {x: 1.94505091e-07, y: .998962104, z: -.0455493182, w: -8.86877949e-09}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl Xuong Dau
+      position: {x: -7.62939791e-08, y: .0144984443, z: .0863818377}
+      rotation: {x: .117837846, y: 4.24949018e-15, z: 3.58109369e-14, w: .993032873}
+      scale: {x: 1.65789998, y: 1.65789998, z: 1.65789998}
+      transformModified: 1
+    - name: Ctrl Toc 1
+      position: {x: -5.12642771e-07, y: -.0815195069, z: .456703037}
+      rotation: {x: -.117837876, y: 2.49273711e-07, z: 2.36863968e-07, w: .993032873}
+      scale: {x: .25513038, y: .255130291, z: .255130351}
+      transformModified: 1
+    - name: IK Toc 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -.0871559381, y: -1.37656158e-07, z: -9.08681699e-08, w: .99619472}
+      scale: {x: 2.36417532, y: 2.3641746, z: 2.3641746}
+      transformModified: 1
+    - name: Ctrl Toc 2
+      position: {x: -4.10629212e-07, y: .161958829, z: .475760341}
+      rotation: {x: -.117837861, y: 2.36743972e-07, z: 2.62069534e-07, w: .993032873}
+      scale: {x: .255130321, y: .255130291, z: .255130321}
+      transformModified: 1
+    - name: IK Toc 2
+      position: {x: -0, y: -2.86102289e-08, z: 0}
+      rotation: {x: -.0871555954, y: -1.31847059e-07, z: -1.5139851e-07, w: .99619472}
+      scale: {x: 2.36417508, y: 2.36417556, z: 2.36417532}
+      transformModified: 1
+    - name: Ctrl Toc 3
+      position: {x: -2.52165876e-07, y: .337719947, z: .325985104}
+      rotation: {x: -.117838345, y: 1.99317313e-07, z: 1.89577975e-07, w: .993032813}
+      scale: {x: .255130351, y: .255130321, z: .25513038}
+      transformModified: 1
+    - name: IK Toc 3
+      position: {x: -0, y: 7.62939436e-08, z: 0}
+      rotation: {x: -.087155275, y: -2.01401619e-07, z: -2.24766637e-07, w: .99619478}
+      scale: {x: 2.36417484, y: 2.36417508, z: 2.3641746}
+      transformModified: 1
+    - name: Ctrl Xuong Ham Duoi
+      position: {x: -2.9628282e-07, y: -.146041319, z: .0444165021}
+      rotation: {x: .46597138, y: .444464862, z: .536072791, w: .545845926}
+      scale: {x: .603172719, y: .603172719, z: .603172719}
+      transformModified: 1
+    - name: Xuong Song
+      position: {x: -0, y: 0, z: 7.62939436e-08}
+      rotation: {x: 1.08410286e-15, y: -4.33641143e-15, z: 4.70111562e-30, w: 1}
+      scale: {x: 1.63855004, y: 1.63855004, z: 1.63855004}
+      transformModified: 1
+    - name: Xuong Long Nguc
+      position: {x: -.304095745, y: -1.90734859e-08, z: 0}
+      rotation: {x: -2.33408315e-07, y: 2.07952212e-07, z: -.170766726, w: .985311508}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Ba Vai Phai
+      position: {x: -.24524413, y: 0, z: -7.27595745e-14}
+      rotation: {x: -.0355829708, y: .579193115, z: .0499395616, w: .812880814}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Canh Tay Phai 1
+      position: {x: -.291407108, y: -2.62260436e-08, z: -1.52587887e-07}
+      rotation: {x: .799008608, y: .108581774, z: -.156746641, w: .570285618}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Xuong Canh Tay Phai 2
+      position: {x: -.395395666, y: 0, z: 1.14440915e-07}
+      rotation: {x: .00999812968, y: .0450680479, z: .00541890133, w: .998919189}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Xuong Co Tay Phai
+      position: {x: -.301742733, y: 1.52587887e-07, z: 3.81469718e-08}
+      rotation: {x: -.165174857, y: -.0183968265, z: -.0107285697, w: .986034334}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: Xuong Ban Tay Phai
+      position: {x: -.0979827121, y: -1.52587887e-07, z: 9.53674295e-09}
+      rotation: {x: .0550961308, y: -.103103399, z: .0861159563, w: .98940295}
+      scale: {x: .999999821, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Xuong Ngon Tay Phai
+      position: {x: -.107736431, y: -3.05175774e-07, z: -1.90734859e-08}
+      rotation: {x: -.131288186, y: .0875741914, z: -.115097351, w: .980737865}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Xuong Dinh Ngon Tay Phai
+      position: {x: -.144631997, y: 0, z: -2.86102289e-08}
+      rotation: {x: .0715785846, y: .214279696, z: .0111840218, w: .974081993}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Ba Vai Trai
+      position: {x: -.24524413, y: 0, z: -7.27595745e-14}
+      rotation: {x: .812879503, y: .0499403812, z: .579194963, w: -.0355835706}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Canh Tay Trai 1
+      position: {x: -.291407108, y: 6.19888283e-08, z: -3.05175774e-07}
+      rotation: {x: -.798988223, y: .108601227, z: .15673019, w: .570315123}
+      scale: {x: .999999642, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Xuong Canh Tay Trai 2
+      position: {x: -.395395696, y: -1.52587887e-07, z: 1.52587887e-07}
+      rotation: {x: -.0106675113, y: .0405553319, z: -.00433709007, w: .999110937}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Xuong Co Tay Trai
+      position: {x: -.301741242, y: 0, z: 0}
+      rotation: {x: .165067241, y: -.018560499, z: .0105862217, w: .986050844}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999642}
+      transformModified: 1
+    - name: Xuong Ban Tay Trai
+      position: {x: -.0979834348, y: 0, z: -3.14712508e-07}
+      rotation: {x: -.0550997555, y: -.103124149, z: -.0861134082, w: .989400804}
+      scale: {x: 1.00000012, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: Xuong Ngon Tay Trai
+      position: {x: -.107736282, y: 6.10351549e-07, z: 0}
+      rotation: {x: .131284311, y: .0875738561, z: .115097806, w: .980738401}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Xuong Dinh Ngon Tay Trai
+      position: {x: -.144632444, y: 1.52587887e-07, z: 1.62124635e-07}
+      rotation: {x: -.0715810508, y: .214279711, z: -.011183233, w: .974081814}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: Xuong Uc
+      position: {x: -.24524413, y: -3.81469718e-08, z: -7.27595745e-14}
+      rotation: {x: -8.09994399e-15, y: 2.79434882e-14, z: .066729039, w: .997771144}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Co
+      position: {x: -.190191343, y: -2.38418565e-08, z: 0}
+      rotation: {x: -1.00383397e-06, y: -8.55246043e-08, z: -.104169793, w: .994559526}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Dau
+      position: {x: -.0875900239, y: 0, z: 0}
+      rotation: {x: -4.76442949e-07, y: -9.41873566e-08, z: .199901819, w: .97981596}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Dinh Dau
+      position: {x: -.568361223, y: 4.95910626e-07, z: -6.24007956e-09}
+      rotation: {x: -5.21010918e-07, y: 3.78020459e-08, z: .0113467649, w: .999935627}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Xuong Toc 1
+      position: {x: -.0157740787, y: -.064112395, z: -1.21651624e-06}
+      rotation: {x: .695541978, y: .127377331, z: .12737906, w: .695536435}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Dinh Toc 1
+      position: {x: -.188269496, y: 1.52587887e-07, z: 7.62939436e-08}
+      rotation: {x: -2.84217094e-14, y: 1.49011594e-08, z: 4.23516423e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Toc 2
+      position: {x: -.00623443583, y: .206344828, z: 9.4296411e-11}
+      rotation: {x: -.698519468, y: .109865479, z: -.109875247, w: .698518217}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Dinh Toc 2
+      position: {x: -.218570247, y: -3.05175536e-06, z: 4.76837148e-09}
+      rotation: {x: -8.52651283e-14, y: 1.86264515e-09, z: 1.58818678e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Toc 3
+      position: {x: .181499317, y: .375853956, z: 9.87730118e-07}
+      rotation: {x: -.634323061, y: .312463015, z: -.312462777, w: .634324968}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Xuong Dinh Toc 3
+      position: {x: -.231170341, y: -2.28881902e-07, z: 0}
+      rotation: {x: 6.03961325e-14, y: -1.49011612e-08, z: 2.84217094e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Ham Duoi
+      position: {x: -.0736383051, y: -.242121786, z: -1.22070344e-06}
+      rotation: {x: -.0495683029, y: -.0716883838, z: .708552241, w: .700255334}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Dinh Ham Duoi
+      position: {x: -.158189327, y: 1.52587887e-07, z: -1.90734852e-07}
+      rotation: {x: 5.96046448e-08, y: 5.58793589e-09, z: -3.33066934e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Ham Tren
+      position: {x: -.0736383051, y: -.242121786, z: -1.22070344e-06}
+      rotation: {x: 1.11471888e-06, y: -1.26161717e-06, z: .557907641, w: .829903066}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Dinh Ham Tren
+      position: {x: -.17384392, y: 0, z: -2.72329626e-08}
+      rotation: {x: 0, y: 8.8817842e-16, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Long Mat Phai 1
+      position: {x: -.161562189, y: -.188653544, z: .313078016}
+      rotation: {x: .0978423953, y: .16419445, z: -.563532889, w: .803677619}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Long Mat Phai 2
+      position: {x: -.175366133, y: -6.10351549e-07, z: 0}
+      rotation: {x: .0829485655, y: -.0943114609, z: .248242155, w: .960521102}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Xuong Long Mat Phai 3
+      position: {x: -.18891494, y: -7.62939436e-08, z: -7.62939436e-08}
+      rotation: {x: 1.58324855e-08, y: 5.58793545e-09, z: -8.84709039e-17, w: 1}
+      scale: {x: .99999994, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: Xuong Long Mat Trai 1
+      position: {x: -.161561579, y: -.188651443, z: -.313080311}
+      rotation: {x: .803677976, y: -.563533187, z: .164193541, w: .0978394002}
+      scale: {x: 1.00000048, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Long Mat Trai 2
+      position: {x: -.175366208, y: 4.57763662e-07, z: 1.14440915e-07}
+      rotation: {x: -.0829484984, y: -.0943113714, z: -.248241946, w: .960521162}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Xuong Long Mat Trai 3
+      position: {x: -.188914791, y: 1.52587887e-07, z: -6.10351549e-07}
+      rotation: {x: 2.65427396e-08, y: 2.34693204e-07, z: -2.38418494e-07, w: 1}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Chau Center
+      position: {x: -0, y: -4.76837148e-09, z: 0}
+      rotation: {x: .705821157, y: -.0426212139, z: .705821157, w: -.0426210687}
+      scale: {x: 2.03522515, y: 2.03522515, z: 2.03522491}
+      transformModified: 1
+    - name: Xuong Chau phai
+      position: {x: -.0400000364, y: -9.53674295e-09, z: 1.13686835e-15}
+      rotation: {x: -.0612191558, y: .405495822, z: .0729677603, w: .909121096}
+      scale: {x: .49134621, y: .491346121, z: .491346121}
+      transformModified: 1
+    - name: Xuong Dui Phai
+      position: {x: -.228461668, y: -1.90734859e-08, z: 0}
+      rotation: {x: .11986059, y: -.500043511, z: -.250339419, w: .82031709}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Xuong Ong Dong Phai
+      position: {x: -.373792529, y: -3.81469718e-08, z: -1.90734859e-08}
+      rotation: {x: -.020561995, y: .00807675347, z: .335363716, w: .941829741}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Xuong Co Chan Phai
+      position: {x: -.518927157, y: -7.62939436e-08, z: -5.72204577e-08}
+      rotation: {x: -.00338897691, y: .140128002, z: -.495313495, w: .857331514}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Xuong Ban Chan Phai
+      position: {x: -.0669970512, y: 3.09944141e-07, z: -1.90734859e-08}
+      rotation: {x: .0263350401, y: .0166859664, z: -.535284698, w: .844096243}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Ngon Chan Phai
+      position: {x: -.178006649, y: -9.53674295e-09, z: -1.90734859e-08}
+      rotation: {x: 7.41506994e-07, y: 5.92621427e-06, z: .139951944, w: .990158319}
+      scale: {x: .999999821, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Xuong Dinh Ngon Chan Phai
+      position: {x: -.284698188, y: 4.7683713e-08, z: 1.90734859e-08}
+      rotation: {x: -2.17177352e-08, y: -5.31040484e-07, z: -.0408628434, w: .99916476}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Chau Trai
+      position: {x: -.0400000364, y: -9.53674295e-09, z: 1.13686835e-15}
+      rotation: {x: .909121096, y: .0729678795, z: .405495763, w: -.0612194166}
+      scale: {x: .49134621, y: .49134618, z: .49134618}
+      transformModified: 1
+    - name: Xuong Dui Trai
+      position: {x: -.228461578, y: 0, z: -7.62939436e-08}
+      rotation: {x: -.119860634, y: -.500043392, z: .250339597, w: .82031709}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Xuong Ong Dong Trai
+      position: {x: -.37379238, y: 0, z: 5.72204577e-08}
+      rotation: {x: .0205619819, y: .00807697605, z: -.335363567, w: .941829801}
+      scale: {x: 1.00000024, y: .999999702, z: .99999994}
+      transformModified: 1
+    - name: Xuong Co Chan Trai
+      position: {x: -.518927038, y: 7.62939436e-08, z: 1.90734859e-08}
+      rotation: {x: .00324029895, y: .140044093, z: .495338023, w: .857331514}
+      scale: {x: 1.00000012, y: .999999642, z: 1.00000012}
+      transformModified: 1
+    - name: Xuong Ban Chan Trai
+      position: {x: -.0669970512, y: -2.57492047e-07, z: -1.90734859e-08}
+      rotation: {x: -.0262071546, y: .016578624, z: .534738302, w: .844448566}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Xuong Ngon Chan Trai
+      position: {x: -.178006664, y: -6.67572024e-08, z: 5.72204577e-08}
+      rotation: {x: -7.50601714e-07, y: 6.17702244e-06, z: -.139951944, w: .990158319}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Xuong Dinh Ngon Chan Trai
+      position: {x: -.284698069, y: -3.81469718e-08, z: -1.90734859e-08}
+      rotation: {x: 3.06540962e-08, y: -7.48824277e-07, z: .040863093, w: .99916476}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 4b52038975229124c8c666006a640d1a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 1
+    100002: //RootNode
+    100004: Ctrl Ban Tay Phai
+    100006: Ctrl Ban Tay Trai
+    100008: Ctrl Bone Center UP
+    100010: Ctrl Center
+    100012: Ctrl Co Tay Phai
+    100014: Ctrl Co Tay Trai
+    100016: Ctrl Khiu Chan Phai
+    100018: Ctrl Khiu Chan Trai
+    100020: Ctrl Khiu Tay Phai
+    100022: Ctrl Khiu Tay Trai
+    100024: Ctrl Ngon Tay Trai
+    100026: Ctrl Toc 1
+    100028: Ctrl Toc 2
+    100030: Ctrl Toc 3
+    100032: Ctrl Total Ban Chan Phai
+    100034: Ctrl Total Ban Chan Trai
+    100036: Ctrl Total Body
+    100038: Ctrl Xuong Ban Chan Phai
+    100040: Ctrl Xuong Ban Chan Trai
+    100042: Ctrl Xuong Co
+    100044: Ctrl Xuong Dau
+    100046: Ctrl Xuong Ham Duoi
+    100048: Ctrl Xuong Long Nguc
+    100050: Ctrl Xuong Ngon Chan Phai
+    100052: Ctrl Xuong Ngon Chan Trai
+    100054: Ctrl Xuong Ngon Tay Phai
+    100056: IK  Ban Chan Phai
+    100058: IK Ban Chan Trai
+    100060: IK Co Chan Phai
+    100062: IK Co Chan Trai
+    100064: IK Co Tay Phai
+    100066: IK Co Tay Trai
+    100068: IK Toc 1
+    100070: IK Toc 2
+    100072: IK Toc 3
+    100074: Xuong Ba Vai Phai
+    100076: Xuong Ba Vai Trai
+    100078: Xuong Ban Chan Phai
+    100080: Xuong Ban Chan Trai
+    100082: Xuong Ban Tay Phai
+    100084: Xuong Ban Tay Trai
+    100086: Xuong Canh Tay Phai 1
+    100088: Xuong Canh Tay Phai 2
+    100090: Xuong Canh Tay Trai 1
+    100092: Xuong Canh Tay Trai 2
+    100094: Xuong Chau Center
+    100096: Xuong Chau phai
+    100098: Xuong Chau Trai
+    100100: Xuong Co
+    100102: Xuong Co Chan Phai
+    100104: Xuong Co Chan Trai
+    100106: Xuong Co Tay Phai
+    100108: Xuong Co Tay Trai
+    100110: Xuong Dau
+    100112: Xuong Dinh Dau
+    100114: Xuong Dinh Ham Duoi
+    100116: Xuong Dinh Ham Tren
+    100118: Xuong Dinh Ngon Chan Phai
+    100120: Xuong Dinh Ngon Chan Trai
+    100122: Xuong Dinh Ngon Tay Phai
+    100124: Xuong Dinh Ngon Tay Trai
+    100126: Xuong Dinh Toc 1
+    100128: Xuong Dinh Toc 2
+    100130: Xuong Dinh Toc 3
+    100132: Xuong Dui Phai
+    100134: Xuong Dui Trai
+    100136: Xuong Ham Duoi
+    100138: Xuong Ham Tren
+    100140: Xuong Long Mat Phai 1
+    100142: Xuong Long Mat Phai 2
+    100144: Xuong Long Mat Phai 3
+    100146: Xuong Long Mat Trai 1
+    100148: Xuong Long Mat Trai 2
+    100150: Xuong Long Mat Trai 3
+    100152: Xuong Long Nguc
+    100154: Xuong Ngon Chan Phai
+    100156: Xuong Ngon Chan Trai
+    100158: Xuong Ngon Tay Phai
+    100160: Xuong Ngon Tay Trai
+    100162: Xuong Ong Dong Phai
+    100164: Xuong Ong Dong Trai
+    100166: Xuong Song
+    100168: Xuong Toc 1
+    100170: Xuong Toc 2
+    100172: Xuong Toc 3
+    100174: Xuong Uc
+    400000: 1
+    400002: //RootNode
+    400004: Ctrl Ban Tay Phai
+    400006: Ctrl Ban Tay Trai
+    400008: Ctrl Bone Center UP
+    400010: Ctrl Center
+    400012: Ctrl Co Tay Phai
+    400014: Ctrl Co Tay Trai
+    400016: Ctrl Khiu Chan Phai
+    400018: Ctrl Khiu Chan Trai
+    400020: Ctrl Khiu Tay Phai
+    400022: Ctrl Khiu Tay Trai
+    400024: Ctrl Ngon Tay Trai
+    400026: Ctrl Toc 1
+    400028: Ctrl Toc 2
+    400030: Ctrl Toc 3
+    400032: Ctrl Total Ban Chan Phai
+    400034: Ctrl Total Ban Chan Trai
+    400036: Ctrl Total Body
+    400038: Ctrl Xuong Ban Chan Phai
+    400040: Ctrl Xuong Ban Chan Trai
+    400042: Ctrl Xuong Co
+    400044: Ctrl Xuong Dau
+    400046: Ctrl Xuong Ham Duoi
+    400048: Ctrl Xuong Long Nguc
+    400050: Ctrl Xuong Ngon Chan Phai
+    400052: Ctrl Xuong Ngon Chan Trai
+    400054: Ctrl Xuong Ngon Tay Phai
+    400056: IK  Ban Chan Phai
+    400058: IK Ban Chan Trai
+    400060: IK Co Chan Phai
+    400062: IK Co Chan Trai
+    400064: IK Co Tay Phai
+    400066: IK Co Tay Trai
+    400068: IK Toc 1
+    400070: IK Toc 2
+    400072: IK Toc 3
+    400074: Xuong Ba Vai Phai
+    400076: Xuong Ba Vai Trai
+    400078: Xuong Ban Chan Phai
+    400080: Xuong Ban Chan Trai
+    400082: Xuong Ban Tay Phai
+    400084: Xuong Ban Tay Trai
+    400086: Xuong Canh Tay Phai 1
+    400088: Xuong Canh Tay Phai 2
+    400090: Xuong Canh Tay Trai 1
+    400092: Xuong Canh Tay Trai 2
+    400094: Xuong Chau Center
+    400096: Xuong Chau phai
+    400098: Xuong Chau Trai
+    400100: Xuong Co
+    400102: Xuong Co Chan Phai
+    400104: Xuong Co Chan Trai
+    400106: Xuong Co Tay Phai
+    400108: Xuong Co Tay Trai
+    400110: Xuong Dau
+    400112: Xuong Dinh Dau
+    400114: Xuong Dinh Ham Duoi
+    400116: Xuong Dinh Ham Tren
+    400118: Xuong Dinh Ngon Chan Phai
+    400120: Xuong Dinh Ngon Chan Trai
+    400122: Xuong Dinh Ngon Tay Phai
+    400124: Xuong Dinh Ngon Tay Trai
+    400126: Xuong Dinh Toc 1
+    400128: Xuong Dinh Toc 2
+    400130: Xuong Dinh Toc 3
+    400132: Xuong Dui Phai
+    400134: Xuong Dui Trai
+    400136: Xuong Ham Duoi
+    400138: Xuong Ham Tren
+    400140: Xuong Long Mat Phai 1
+    400142: Xuong Long Mat Phai 2
+    400144: Xuong Long Mat Phai 3
+    400146: Xuong Long Mat Trai 1
+    400148: Xuong Long Mat Trai 2
+    400150: Xuong Long Mat Trai 3
+    400152: Xuong Long Nguc
+    400154: Xuong Ngon Chan Phai
+    400156: Xuong Ngon Chan Trai
+    400158: Xuong Ngon Tay Phai
+    400160: Xuong Ngon Tay Trai
+    400162: Xuong Ong Dong Phai
+    400164: Xuong Ong Dong Trai
+    400166: Xuong Song
+    400168: Xuong Toc 1
+    400170: Xuong Toc 2
+    400172: Xuong Toc 3
+    400174: Xuong Uc
+    4300000: 1
+    7400000: Animation CAT solider
+    9500000: //RootNode
+    13700000: 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

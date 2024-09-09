@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: cfa8a0fb27eec3a43b00ecc14b2c5e6e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Character Cow hostage
+    100004: Ctrl Center
+    100006: Ctrl Chan Phai
+    100008: Ctrl Chan Trai
+    100010: Ctrl Co Chan Phai
+    100012: Ctrl Co Chan Trai
+    100014: Ctrl Dau Goi Phai
+    100016: Ctrl Dau Goi Trai
+    100018: Ctrl Xuong Ban Chan Phai
+    100020: Ctrl Xuong Ban Chan Trai
+    100022: Ctrl Xuong Bung
+    100024: Ctrl Xuong Bung Center
+    100026: Ctrl Xuong Canh Tay Phai
+    100028: Ctrl Xuong Canh Tay Trai
+    100030: Ctrl Xuong Co
+    100032: Ctrl Xuong Dau
+    100034: Ctrl Xuong Khuy Tay Phai
+    100036: Ctrl Xuong Khuy Tay Trai
+    100038: Ctrl Xuong Ngon Chan Phai
+    100040: Ctrl Xuong Ngon Chan Trai
+    100042: Ctrl Xuong Nguc
+    100044: Ctrl Xuong Tai Phai 1
+    100046: Ctrl Xuong Tai Phai 2
+    100048: Ctrl Xuong Tai Trai 1
+    100050: Ctrl Xuong Tai Trai 2
+    100052: Ctrl Xuong Vai 1
+    100054: Ctrl Xuong Vai 2
+    100056: Ctrl Xuong Vai 3
+    100058: Ctrl Xuong Vai 4
+    100060: Cylinder001
+    100062: IK Ban Chan Phai
+    100064: IK Ban Chan Trai
+    100066: IK Canh Tay Phai
+    100068: IK Canh Tay Trai
+    100070: IK Chan Co Chan Phai
+    100072: IK Co Chan Trai
+    100074: Xuong Ban Chan Phai
+    100076: Xuong Ban Chan Trai
+    100078: Xuong Bung
+    100080: Xuong Canh Tay Phai
+    100082: Xuong Canh Tay Trai
+    100084: Xuong Center
+    100086: Xuong Chau Phai
+    100088: Xuong Chau Trai
+    100090: Xuong Co
+    100092: Xuong Co Chan Phai
+    100094: Xuong Co Chan Trai
+    100096: Xuong Dau
+    100098: Xuong Dinh dau
+    100100: Xuong Dui Phai
+    100102: Xuong Dui Trai
+    100104: Xuong Link
+    100106: Xuong Ngon Chan Phai
+    100108: Xuong Ngon Chan Trai
+    100110: Xuong Ngon Tay Phai
+    100112: Xuong Ngon Tay Trai
+    100114: Xuong Nguc
+    100116: Xuong Noi Tay Phai
+    100118: Xuong Noi Tay Trai
+    100120: Xuong Ong Dong Phai
+    100122: Xuong Ong Dong Trai
+    100124: Xuong Ong Tay Phai
+    100126: Xuong Ong Tay Trai
+    100128: Xuong Tai Phai
+    100130: Xuong Tai Phai 1
+    100132: Xuong Tai Phai 2
+    100134: Xuong Tai Phai 3
+    100136: Xuong Tai Trai
+    100138: Xuong Tai Trai 1
+    100140: Xuong Tai Trai 2
+    100142: Xuong Tai Trai 3
+    100144: Xuong Vai 1
+    100146: Xuong Vai 2
+    100148: Xuong Vai 3
+    100150: Xuong Vai 4
+    100152: Xuong Vai 5
+    100154: Xuong Yet Hau
+    400000: //RootNode
+    400002: Character Cow hostage
+    400004: Ctrl Center
+    400006: Ctrl Chan Phai
+    400008: Ctrl Chan Trai
+    400010: Ctrl Co Chan Phai
+    400012: Ctrl Co Chan Trai
+    400014: Ctrl Dau Goi Phai
+    400016: Ctrl Dau Goi Trai
+    400018: Ctrl Xuong Ban Chan Phai
+    400020: Ctrl Xuong Ban Chan Trai
+    400022: Ctrl Xuong Bung
+    400024: Ctrl Xuong Bung Center
+    400026: Ctrl Xuong Canh Tay Phai
+    400028: Ctrl Xuong Canh Tay Trai
+    400030: Ctrl Xuong Co
+    400032: Ctrl Xuong Dau
+    400034: Ctrl Xuong Khuy Tay Phai
+    400036: Ctrl Xuong Khuy Tay Trai
+    400038: Ctrl Xuong Ngon Chan Phai
+    400040: Ctrl Xuong Ngon Chan Trai
+    400042: Ctrl Xuong Nguc
+    400044: Ctrl Xuong Tai Phai 1
+    400046: Ctrl Xuong Tai Phai 2
+    400048: Ctrl Xuong Tai Trai 1
+    400050: Ctrl Xuong Tai Trai 2
+    400052: Ctrl Xuong Vai 1
+    400054: Ctrl Xuong Vai 2
+    400056: Ctrl Xuong Vai 3
+    400058: Ctrl Xuong Vai 4
+    400060: Cylinder001
+    400062: IK Ban Chan Phai
+    400064: IK Ban Chan Trai
+    400066: IK Canh Tay Phai
+    400068: IK Canh Tay Trai
+    400070: IK Chan Co Chan Phai
+    400072: IK Co Chan Trai
+    400074: Xuong Ban Chan Phai
+    400076: Xuong Ban Chan Trai
+    400078: Xuong Bung
+    400080: Xuong Canh Tay Phai
+    400082: Xuong Canh Tay Trai
+    400084: Xuong Center
+    400086: Xuong Chau Phai
+    400088: Xuong Chau Trai
+    400090: Xuong Co
+    400092: Xuong Co Chan Phai
+    400094: Xuong Co Chan Trai
+    400096: Xuong Dau
+    400098: Xuong Dinh dau
+    400100: Xuong Dui Phai
+    400102: Xuong Dui Trai
+    400104: Xuong Link
+    400106: Xuong Ngon Chan Phai
+    400108: Xuong Ngon Chan Trai
+    400110: Xuong Ngon Tay Phai
+    400112: Xuong Ngon Tay Trai
+    400114: Xuong Nguc
+    400116: Xuong Noi Tay Phai
+    400118: Xuong Noi Tay Trai
+    400120: Xuong Ong Dong Phai
+    400122: Xuong Ong Dong Trai
+    400124: Xuong Ong Tay Phai
+    400126: Xuong Ong Tay Trai
+    400128: Xuong Tai Phai
+    400130: Xuong Tai Phai 1
+    400132: Xuong Tai Phai 2
+    400134: Xuong Tai Phai 3
+    400136: Xuong Tai Trai
+    400138: Xuong Tai Trai 1
+    400140: Xuong Tai Trai 2
+    400142: Xuong Tai Trai 3
+    400144: Xuong Vai 1
+    400146: Xuong Vai 2
+    400148: Xuong Vai 3
+    400150: Xuong Vai 4
+    400152: Xuong Vai 5
+    400154: Xuong Yet Hau
+    2300000: Cylinder001
+    3300000: Cylinder001
+    4300000: Character Cow hostage
+    4300002: Cylinder001
+    7400000: Hotage Cow Super Men
+    9500000: //RootNode
+    13700000: Character Cow hostage
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hotage Cow Super Men
+      takeName: Hotage Cow Super Men
+      firstFrame: 110
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character Cow hostage
+        weight: 1
+      - path: Ctrl Center
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Phai/Ctrl Xuong Ban Chan Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Phai/Ctrl Xuong Ban Chan Phai/Ctrl Co Chan Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Phai/Ctrl Xuong Ban Chan Phai/Ctrl Co Chan Phai/IK
+          Chan Co Chan Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Phai/Ctrl Xuong Ban Chan Phai/Ctrl Xuong Ngon
+          Chan Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Phai/Ctrl Xuong Ban Chan Phai/IK Ban Chan Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Trai/Ctrl Xuong Ban Chan Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Trai/Ctrl Xuong Ban Chan Trai/Ctrl Co Chan Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Trai/Ctrl Xuong Ban Chan Trai/Ctrl Co Chan Trai/IK
+          Co Chan Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Trai/Ctrl Xuong Ban Chan Trai/Ctrl Xuong Ngon
+          Chan Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Chan Trai/Ctrl Xuong Ban Chan Trai/IK Ban Chan Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Dau Goi Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Dau Goi Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Ctrl Xuong Nguc
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Ctrl Xuong Nguc/Ctrl
+          Xuong Co
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Ctrl Xuong Nguc/Ctrl
+          Xuong Co/Ctrl Xuong Dau
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Ctrl Xuong Nguc/Ctrl
+          Xuong Vai 1
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Ctrl Xuong Nguc/Ctrl
+          Xuong Vai 1/Ctrl Xuong Vai 2
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Ctrl Xuong Nguc/Ctrl
+          Xuong Vai 1/Ctrl Xuong Vai 2/Ctrl Xuong Vai 3
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Ctrl Xuong Nguc/Ctrl
+          Xuong Vai 1/Ctrl Xuong Vai 2/Ctrl Xuong Vai 3/Ctrl Xuong Vai 4
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Link
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Link/Xuong Vai 1
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Link/Xuong Vai 1/Xuong Vai 2
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Link/Xuong Vai 1/Xuong Vai 2/Xuong Vai 3
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Link/Xuong Vai 1/Xuong Vai 2/Xuong Vai 3/Xuong Vai 4
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Link/Xuong Vai 1/Xuong Vai 2/Xuong Vai 3/Xuong Vai 4/Xuong Vai
+          5
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Dinh dau
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Dinh dau/Ctrl Xuong Tai Phai
+          1
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Dinh dau/Ctrl Xuong Tai Phai
+          1/Ctrl Xuong Tai Phai 2
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Dinh dau/Ctrl Xuong Tai Trai
+          1
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Dinh dau/Ctrl Xuong Tai Trai
+          1/Ctrl Xuong Tai Trai 2
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Tai Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Tai Phai/Xuong Tai Phai 1
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Tai Phai/Xuong Tai Phai 1/Xuong
+          Tai Phai 2
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Tai Phai/Xuong Tai Phai 1/Xuong
+          Tai Phai 2/Xuong Tai Phai 3
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Tai Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Tai Trai/Xuong Tai Trai 1
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Tai Trai/Xuong Tai Trai 1/Xuong
+          Tai Trai 2
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Nguc/Xuong Yet Hau/Xuong Co/Xuong Dau/Xuong Tai Trai/Xuong Tai Trai 1/Xuong
+          Tai Trai 2/Xuong Tai Trai 3
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Noi Tay Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Noi Tay Phai/Xuong Canh Tay Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Noi Tay Phai/Xuong Canh Tay Phai/Xuong Ong Tay Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Noi Tay Phai/Xuong Canh Tay Phai/Xuong Ong Tay Phai/Xuong Ngon Tay Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Noi Tay Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Noi Tay Trai/Xuong Canh Tay Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Noi Tay Trai/Xuong Canh Tay Trai/Xuong Ong Tay Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Ctrl Xuong Bung/Xuong Bung/Xuong
+          Noi Tay Trai/Xuong Canh Tay Trai/Xuong Ong Tay Trai/Xuong Ngon Tay Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Phai/Xuong
+          Dui Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Phai/Xuong
+          Dui Phai/Xuong Ong Dong Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Phai/Xuong
+          Dui Phai/Xuong Ong Dong Phai/Xuong Co Chan Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Phai/Xuong
+          Dui Phai/Xuong Ong Dong Phai/Xuong Co Chan Phai/Xuong Ban Chan Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Phai/Xuong
+          Dui Phai/Xuong Ong Dong Phai/Xuong Co Chan Phai/Xuong Ban Chan Phai/Xuong
+          Ngon Chan Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Trai/Xuong
+          Dui Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Trai/Xuong
+          Dui Trai/Xuong Ong Dong Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Trai/Xuong
+          Dui Trai/Xuong Ong Dong Trai/Xuong Co Chan Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Trai/Xuong
+          Dui Trai/Xuong Ong Dong Trai/Xuong Co Chan Trai/Xuong Ban Chan Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Bung Center/Xuong Center/Xuong Chau Trai/Xuong
+          Dui Trai/Xuong Ong Dong Trai/Xuong Co Chan Trai/Xuong Ban Chan Trai/Xuong
+          Ngon Chan Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Canh Tay Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Canh Tay Phai/IK Canh Tay Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Canh Tay Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Canh Tay Trai/Cylinder001
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Canh Tay Trai/IK Canh Tay Trai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Khuy Tay Phai
+        weight: 1
+      - path: Ctrl Center/Ctrl Xuong Khuy Tay Trai
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00100000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

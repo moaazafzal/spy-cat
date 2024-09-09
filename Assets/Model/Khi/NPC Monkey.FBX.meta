@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: e56b2738a93f30f418a78b0a97bbebb6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Ctrl Ban Chan Phai
+    100002: Ctrl Ban Chan Trai
+    100004: Ctrl Center
+    100006: Ctrl Xuong Ban Chan Phai
+    100008: Ctrl Xuong Ban Chan Trai
+    100010: Ctrl Xuong Ban Tay Phai
+    100012: Ctrl Xuong Ban Tay Trai
+    100014: Ctrl Xuong Bung
+    100016: Ctrl Xuong Center
+    100018: Ctrl Xuong Co
+    100020: Ctrl Xuong Dau
+    100022: Ctrl Xuong Dau Goi Phai
+    100024: Ctrl Xuong Dau Goi Trai
+    100026: Ctrl Xuong Khuy Tay Phai
+    100028: Ctrl Xuong Khuy Tay Trai
+    100030: Ctrl Xuong Ngon Cai 1 Phai
+    100032: Ctrl Xuong Ngon Cai 1 Trai
+    100034: Ctrl Xuong Ngon Cai Phai
+    100036: Ctrl Xuong Ngon Cai Trai
+    100038: Ctrl Xuong Ngon Chan Phai
+    100040: Ctrl Xuong Ngon Chan Trai
+    100042: Ctrl Xuong Ngon Tay Phai
+    100044: Ctrl Xuong Ngon Tay Trai
+    100046: Ctrl Xuong Nguc
+    100048: Ctrl Xuong Ong Dong Phai
+    100050: Ctrl Xuong Ong Dong Trai
+    100052: IK Ban Chan Phai
+    100054: IK Ban Chan Trai
+    100056: IK Ban Tay Phai
+    100058: IK Ban Tay Trai
+    100060: IK Co Chan Phai
+    100062: IK Co Chan Trai
+    100064: //RootNode
+    100066: NPC Monkey
+    100068: Xuong Ba Vai Phai
+    100070: Xuong Ba Vai Trai
+    100072: Xuong Ban Chan Phai
+    100074: Xuong Ban Chan Trai
+    100076: Xuong Ban Tay Phai
+    100078: Xuong Ban Tay Trai
+    100080: Xuong Bung
+    100082: Xuong Canh Tay Phai
+    100084: Xuong Canh Tay Trai
+    100086: Xuong Center
+    100088: Xuong Chau Phai
+    100090: Xuong Chau Trai
+    100092: Xuong Co
+    100094: Xuong Co Chan Phai
+    100096: Xuong Co Chan Trai
+    100098: Xuong Co Tay Phai
+    100100: Xuong Co Tay Trai
+    100102: Xuong Dau
+    100104: Xuong Dui Phai
+    100106: Xuong Dui Trai
+    100108: Xuong Ngon Chan Cai 1 Phai
+    100110: Xuong Ngon Chan Cai 1 Trai
+    100112: Xuong Ngon Chan Cai Phai
+    100114: Xuong Ngon Chan Cai Trai
+    100116: Xuong Ngon Chan Phai
+    100118: Xuong Ngon Chan Trai
+    100120: Xuong Ngon Tay Phai
+    100122: Xuong Ngon Tay Trai
+    100124: Xuong Nguc
+    100126: Xuong Ong Dong Phai
+    100128: Xuong Ong Dong Trai
+    100130: Xuong Yet Hau
+    400000: Ctrl Ban Chan Phai
+    400002: Ctrl Ban Chan Trai
+    400004: Ctrl Center
+    400006: Ctrl Xuong Ban Chan Phai
+    400008: Ctrl Xuong Ban Chan Trai
+    400010: Ctrl Xuong Ban Tay Phai
+    400012: Ctrl Xuong Ban Tay Trai
+    400014: Ctrl Xuong Bung
+    400016: Ctrl Xuong Center
+    400018: Ctrl Xuong Co
+    400020: Ctrl Xuong Dau
+    400022: Ctrl Xuong Dau Goi Phai
+    400024: Ctrl Xuong Dau Goi Trai
+    400026: Ctrl Xuong Khuy Tay Phai
+    400028: Ctrl Xuong Khuy Tay Trai
+    400030: Ctrl Xuong Ngon Cai 1 Phai
+    400032: Ctrl Xuong Ngon Cai 1 Trai
+    400034: Ctrl Xuong Ngon Cai Phai
+    400036: Ctrl Xuong Ngon Cai Trai
+    400038: Ctrl Xuong Ngon Chan Phai
+    400040: Ctrl Xuong Ngon Chan Trai
+    400042: Ctrl Xuong Ngon Tay Phai
+    400044: Ctrl Xuong Ngon Tay Trai
+    400046: Ctrl Xuong Nguc
+    400048: Ctrl Xuong Ong Dong Phai
+    400050: Ctrl Xuong Ong Dong Trai
+    400052: IK Ban Chan Phai
+    400054: IK Ban Chan Trai
+    400056: IK Ban Tay Phai
+    400058: IK Ban Tay Trai
+    400060: IK Co Chan Phai
+    400062: IK Co Chan Trai
+    400064: NPC Monkey
+    400066: //RootNode
+    400068: Xuong Ba Vai Phai
+    400070: Xuong Ba Vai Trai
+    400072: Xuong Ban Chan Phai
+    400074: Xuong Ban Chan Trai
+    400076: Xuong Ban Tay Phai
+    400078: Xuong Ban Tay Trai
+    400080: Xuong Bung
+    400082: Xuong Canh Tay Phai
+    400084: Xuong Canh Tay Trai
+    400086: Xuong Center
+    400088: Xuong Chau Phai
+    400090: Xuong Chau Trai
+    400092: Xuong Co
+    400094: Xuong Co Chan Phai
+    400096: Xuong Co Chan Trai
+    400098: Xuong Co Tay Phai
+    400100: Xuong Co Tay Trai
+    400102: Xuong Dau
+    400104: Xuong Dui Phai
+    400106: Xuong Dui Trai
+    400108: Xuong Ngon Chan Cai 1 Phai
+    400110: Xuong Ngon Chan Cai 1 Trai
+    400112: Xuong Ngon Chan Cai Phai
+    400114: Xuong Ngon Chan Cai Trai
+    400116: Xuong Ngon Chan Phai
+    400118: Xuong Ngon Chan Trai
+    400120: Xuong Ngon Tay Phai
+    400122: Xuong Ngon Tay Trai
+    400124: Xuong Nguc
+    400126: Xuong Ong Dong Phai
+    400128: Xuong Ong Dong Trai
+    400130: Xuong Yet Hau
+    4300000: NPC Monkey
+    7400000: Monkey
+    9500000: //RootNode
+    13700000: NPC Monkey
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00100000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
